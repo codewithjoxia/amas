@@ -1,0 +1,41 @@
+root - WARNING -  2021-04-27 22:35:02.780150Enter/n
+root - WARNING -  2021-04-27 22:37:15.190785Enter
+
+root - WARNING -  2021-04-27 22:37:27.283699Enter
+
+root - WARNING -  2021-04-27 22:38:04.587971Enter2
+
+root - WARNING -  2021-04-27 22:42:10.142606Error adding new user
+
+root - WARNING -  2021-04-27 22:44:41.770893Error adding new user
+
+root - WARNING -  2021-04-27 22:59:59.610264Error adding new user
+
+root - WARNING -  2021-04-27 23:00:47.240155Error adding new user
+
+root - WARNING -  2021-04-27 23:01:43.528814Error adding new user
+
+root - WARNING -  2021-04-27 23:10:30.2579620
+
+root - WARNING -  2021-04-27 23:11:19.7082630
+
+root - WARNING -  2021-04-27 23:27:19.1544770
+
+root - WARNING -  2021-04-27 23:29:40.6983381
+
+root - WARNING -  2021-04-29 09:54:25.987076Error adding new pregnant woman
+
+root - WARNING -  2021-04-29 09:59:33.852509Error adding new pregnant woman
+
+root - WARNING -  2021-04-29 12:14:59.685789Error adding new pregnant woman
+
+root - WARNING -  2021-04-29 12:16:22.913856Error adding new pregnant woman
+
+root - WARNING -  2021-04-29 12:17:03.758319Error adding new pregnant woman
+
+root - WARNING -  2021-04-29 12:29:10.690255Error adding new pregnant woman
+
+root - WARNING -  2021-04-29 12:37:16.832304Error adding new pregnant woman
+
+root - WARNING -  2021-04-29 13:19:07.530381Error adding new pregnant woman
+
