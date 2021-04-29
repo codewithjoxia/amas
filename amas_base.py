@@ -15,10 +15,11 @@ def onclick_viewuser():
     import view_users
 
 def onclick_add_pregnant_woman():
-    return
+    import add_pregnant_woman
 
 def onclick_view_pregnant_women():
-    return
+    import view_pregnant_women
+    
 
 def onclick_login_bypass():
     frame_login.grid_forget()
