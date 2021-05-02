@@ -54,8 +54,7 @@ def onclick_submit():
         c.execute("SELECT * FROM pregnantwomen")
         records = c.fetchall()  
 
-        for record in records:
-            print (record)   
+        for record in records:            
             if uniqueID == record[5].strip():
                 uniqueID = services.generate_uniqueID(entry_firstname.get(), entry_lastname.get())
 
